@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.deveisia.becmod.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "client.LDLibDrawerHelperMixin",
+    "client.JEIFluidTankRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
